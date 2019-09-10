@@ -1,2 +1,2 @@
 # issue-stellar-asset-py
-python script to issue assets on the stellar network
+Python script to issue assets on the Stellar test network.
